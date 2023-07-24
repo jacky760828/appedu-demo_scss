@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "system_types.h": "c",
-        "sys_time.h": "c",
-        "hw_abstraction.h": "c",
-        "battery_manage_system.h": "c",
-        "can.h": "c"
-    }
-}
